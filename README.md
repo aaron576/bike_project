@@ -14,13 +14,11 @@ This project explores the relationship between weather conditions and bike share
 
 `git clone https://github.com/aaron576/bike_project.git`
 
-2. navigate to the directory
+2. open the project folder in VSCode
 
-`cd /bike_project`
+3. From the Bike Share Data source download JC-202408-citibike-tripdata.csv.zip through JC-202508-citibike-tripdata.csv.zip. Extract them into /data/raw
 
-3.  From the Bike Share Data source download JC-202408-citibike-tripdata.csv.zip through JC-202508-citibike-tripdata.csv.zip. Extract them into /data/raw
-
-4. create and activate your virtual environment
+4. create and activate a virtual environment
 
 `python -m venv venv`
 
@@ -29,6 +27,11 @@ This project explores the relationship between weather conditions and bike share
 5. Install the required packages
 
 `pip install -r requirements.txt`
+
+6. In VSCode open bike_project.ipynb
+
+7. Run all
+
 
 ## Key Findings
 
