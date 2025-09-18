@@ -10,7 +10,7 @@ __pycache__/
 venv/
 
 # Ignore raw data
-data/raw
+data/raw/*.csv
 
 # Distribution / packaging
 .Python
