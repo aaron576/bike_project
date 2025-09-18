@@ -2,7 +2,7 @@
 
 ## NYC Bike Share: An Analysis of Ridership vs. Weather
 
-This project explores the relationship between weather conditions and bike share ridership in New York City from August 2024 to August 2025. Using public data from NYC Bike Share and historical weather data, this analysis aims to identify the key factors that influence rental demand and uncover different patterns of usage between annual members and casual riders.
+This project explores the relationship between weather conditions and bike share ridership in New York City from August 2024 to August 2025. Using public data from CitiBikeNYC and historical weather data, this analysis aims to identify the key factors that influence rental demand and uncover different patterns of usage between annual members and casual riders.
 
 ## Data Sources
 - Bike Share Data: https://citibikenyc.com/system-data
