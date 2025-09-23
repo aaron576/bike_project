@@ -33,11 +33,12 @@ This project explores the relationship between weather conditions and bike share
 7. Run all
 
 
-## Key Findings
+## Key Visualizations
 
-The analysis shows a strong seasonal trend, with daily ridership closely following average temperatures. This relationship is clear when plotted over the entire year:
 ![Daily Rides vs. Temperature](reports/dual_axis_plot.png)
 
-Furthermore, the data reveals two distinct user groups. While annual members use the service for short, consistent trips (likely commutes), casual riders take much longer, more variable rides: 
-
 ![Member vs. Casual Ride Durations](reports/violin_plot.png)
+
+![Correlation Heatmap](reports/correlation_heatmap.png)
+
+![Linear Regression](reports/actual_vs_predicted.png)
