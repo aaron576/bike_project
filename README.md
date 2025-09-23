@@ -69,12 +69,3 @@ Based on the correlations observed in the data, the following strategic opportun
     <td><img src="reports/actual_vs_predicted.png" alt="Image 3"></td>
   </tr>
 </table>
-
-
-![Daily Rides vs. Temperature](reports/dual_axis_plot.png)
-
-![Member vs. Casual Ride Durations](reports/violin_plot.png)
-
-![Correlation Heatmap](reports/correlation_heatmap.png)
-
-![Linear Regression](reports/actual_vs_predicted.png)
